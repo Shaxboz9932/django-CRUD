@@ -1,0 +1,69 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "7dd1d93c8cc7aab7e06b04ade2916bbd87ae2fbf6c38fb2a8c890f2a3f019050"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "3.11"
+        },
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "asgiref": {
+            "hashes": [
+                "sha256:71e68008da809b957b7ee4b43dbccff33d1b23519fb8344e33f049897077afac",
+                "sha256:9567dfe7bd8d3c8c892227827c41cce860b368104c3431da67a0c5a65a949506"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==3.6.0"
+        },
+        "crispy-bootstrap5": {
+            "hashes": [
+                "sha256:ca5d2afc2a5d1cf12b8d057886a81002cdf7793afcbe0ce006c2294069c1f387",
+                "sha256:e8c50daaf266d6127c7414f5669d5f2467b640d08b045ed9dd57e351d30609ae"
+            ],
+            "index": "pypi",
+            "version": "==0.6"
+        },
+        "django": {
+            "hashes": [
+                "sha256:2c2f73c16b11cb272c6d5e3b063f0d1be06f378d8dc6005fbe8542565db659cc",
+                "sha256:4496eb4f65071578b703fdc6e6f29302553c7440e3f77baf4cefa4a4e091fc3d"
+            ],
+            "index": "pypi",
+            "version": "==4.0.10"
+        },
+        "django-crispy-forms": {
+            "hashes": [
+                "sha256:4dc9e5263c91c5f51766806a050ca2ec5c349d34c5cd91fcca3a1a0363b5e29e",
+                "sha256:9c49d29dd9e98dc2e6e3a8b02670d72deb6edf7bc616986ca412d72c306b36a0"
+            ],
+            "index": "pypi",
+            "version": "==1.13.0"
+        },
+        "sqlparse": {
+            "hashes": [
+                "sha256:5430a4fe2ac7d0f93e66f1efc6e1338a41884b7ddf2a350cedd20ccc4d9d28f3",
+                "sha256:d446183e84b8349fa3061f0fe7f06ca94ba65b426946ffebe6e3e8295332420c"
+            ],
+            "markers": "python_version >= '3.5'",
+            "version": "==0.4.4"
+        },
+        "tzdata": {
+            "hashes": [
+                "sha256:11ef1e08e54acb0d4f95bdb1be05da659673de4acbd21bf9c69e94cc5e907a3a",
+                "sha256:7e65763eef3120314099b6939b5546db7adce1e7d6f2e179e3df563c70511eda"
+            ],
+            "markers": "sys_platform == 'win32'",
+            "version": "==2023.3"
+        }
+    },
+    "develop": {}
+}
